@@ -4,6 +4,7 @@
 
 .footer {
   display: inline-block;
+  margin-top: 300px; 
 }
 
 .footer .footer-container {
